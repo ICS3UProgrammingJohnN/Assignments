@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\bin\Debug\Better21JohnN.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\bin\Debug\Better21JohnN.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\bin\Debug\Better21JohnN.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\obj\Debug\Better21JohnN.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\obj\Debug\Better21JohnN.frmBetter21.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\obj\Debug\Better21JohnN.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\obj\Debug\Better21JohnN.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\obj\Debug\Better21JohnN.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\Better21JohnN\Better21JohnN\obj\Debug\Better21JohnN.pdb

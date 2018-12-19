@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\bin\Debug\PizzaCostJohnN.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\bin\Debug\PizzaCostJohnN.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\bin\Debug\PizzaCostJohnN.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\obj\Debug\PizzaCostJohnN.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\obj\Debug\PizzaCostJohnN.frmPizzaCost.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\obj\Debug\PizzaCostJohnN.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\obj\Debug\PizzaCostJohnN.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\obj\Debug\PizzaCostJohnN.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Assignments\PizzaCostJohnN\PizzaCostJohnN\obj\Debug\PizzaCostJohnN.pdb
